@@ -16,7 +16,7 @@ header figure {
 	float:left;
 }
 div {
-	
+	text-align:center;
 }
 section {
 	width:80%;
@@ -36,6 +36,7 @@ img {
 	margin-left:auto;
 	box-shadow: 3px 3px 5px 1px #cccccc;
 }
+
 h1 {
 	font-size:1.2em;
 	margin:0;
@@ -58,10 +59,14 @@ p {
 	margin:5px;
 	font-size:0.9em;
 	font:bold;
+	text-align:left;
 }
 li {
 	margin:5px;
 	font-size:0.9em;
+}
+ul{
+	text-align:left;
 }
 footer {
 	width:80%;
@@ -71,4 +76,7 @@ footer {
 	margin-left:auto;	
 	padding:10px;
 	heigh:50px;
+}
+nav {
+	text-align: center
 }
